@@ -7,3 +7,4 @@ factorial of a number without recursion
 binary search
 linear search
 stack operations
+insert,delete
