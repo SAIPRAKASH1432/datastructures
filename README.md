@@ -8,3 +8,4 @@ binary search
 linear search
 stack operations
 insert,delete
+insertion sort
