@@ -9,3 +9,5 @@ linear search
 stack operations
 insert,delete
 insertion sort
+merge sort
+quick sort
