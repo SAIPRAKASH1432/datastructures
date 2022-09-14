@@ -12,3 +12,4 @@ insertion sort
 merge sort
 quick sort
 linked list operations
+enqueue
